@@ -1,0 +1,209 @@
+{
+  "schema": 1,
+  "updatedAt": "2026-11-07T04:00:00Z",
+  "papers": [
+    {
+      "name": "4×6 in",
+      "widthMM": 102,
+      "heightMM": 152,
+      "pixelWidth": 1200,
+      "pixelHeight": 1800,
+      "aliases": [
+        "10×15",
+        "4R",
+        "postcard"
+      ],
+      "sortIndex": 0
+    },
+    {
+      "name": "5×7 in",
+      "widthMM": 127,
+      "heightMM": 178,
+      "pixelWidth": 1500,
+      "pixelHeight": 2100,
+      "aliases": [
+        "13×18",
+        "5R"
+      ],
+      "sortIndex": 1
+    },
+    {
+      "name": "8×10 in",
+      "widthMM": 203,
+      "heightMM": 254,
+      "pixelWidth": 2400,
+      "pixelHeight": 3000,
+      "aliases": [
+        "20×25",
+        "8R"
+      ],
+      "sortIndex": 2
+    },
+    {
+      "name": "A4",
+      "widthMM": 210,
+      "heightMM": 297,
+      "pixelWidth": 2480,
+      "pixelHeight": 3508,
+      "aliases": [
+        "210×297"
+      ],
+      "sortIndex": 3
+    },
+    {
+      "name": "8×8 in",
+      "widthMM": 203,
+      "heightMM": 203,
+      "pixelWidth": 2400,
+      "pixelHeight": 2400,
+      "aliases": [
+        "20×20",
+        "square"
+      ],
+      "sortIndex": 4
+    },
+    {
+      "name": "6×6 in",
+      "widthMM": 152,
+      "heightMM": 152,
+      "pixelWidth": 1800,
+      "pixelHeight": 1800,
+      "aliases": [
+        "15×15",
+        "6 square"
+      ],
+      "sortIndex": 5
+    }
+  ],
+  "frames": [
+    {
+      "brand": "IKEA",
+      "model": "RIBBA 23×23",
+      "outerWidthMM": 230,
+      "outerHeightMM": 230,
+      "openingWidthMM": 130,
+      "openingHeightMM": 130,
+      "matMM": 50,
+      "note": "Square opening. The mat hides 50 mm on every side."
+    },
+    {
+      "brand": "IKEA",
+      "model": "FISKBO 10×15",
+      "outerWidthMM": 160,
+      "outerHeightMM": 210,
+      "openingWidthMM": 102,
+      "openingHeightMM": 152,
+      "matMM": 0,
+      "note": "Borderless. Full bleed to the opening."
+    },
+    {
+      "brand": "Muji",
+      "model": "Wooden 5×7",
+      "outerWidthMM": 145,
+      "outerHeightMM": 196,
+      "openingWidthMM": 127,
+      "openingHeightMM": 178,
+      "matMM": 0,
+      "note": "No mat. Keep the subject away from the edge."
+    },
+    {
+      "brand": "IKEA",
+      "model": "RIBBA 30×40",
+      "outerWidthMM": 300,
+      "outerHeightMM": 400,
+      "openingWidthMM": 200,
+      "openingHeightMM": 300,
+      "matMM": 50,
+      "note": "4:6 opening inside a 3:4 frame."
+    }
+  ],
+  "labs": [
+    {
+      "name": "Prolab",
+      "bleedMM": 3,
+      "minimumDPI": 300,
+      "finishes": [
+        "matte",
+        "glossy"
+      ],
+      "isBorderless": false
+    },
+    {
+      "name": "Snapshot",
+      "bleedMM": 2,
+      "minimumDPI": 240,
+      "finishes": [
+        "matte",
+        "satin"
+      ],
+      "isBorderless": true
+    },
+    {
+      "name": "Atelier North",
+      "bleedMM": 4,
+      "minimumDPI": 300,
+      "finishes": [
+        "cotton",
+        "glossy"
+      ],
+      "isBorderless": false
+    }
+  ],
+  "picks": [
+    {
+      "week": "Week 45",
+      "title": "The power of negative space",
+      "ratio": "4:5",
+      "credit": "Ana Martínez",
+      "creditURL": "https://unsplash.com/@anamartinez",
+      "cover": "pick-negative-space",
+      "points": [
+        "Keep the subject in the lower third. A 4:5 frame holds the sky better than 3:2.",
+        "Place the horizon at one third or two thirds — never dead center.",
+        "Built for 8×10: almost no re-crop, and the mat blends into the sky."
+      ],
+      "papers": [
+        "8×10 in",
+        "A4",
+        "8×8 in"
+      ],
+      "current": true
+    },
+    {
+      "week": "Week 44",
+      "title": "Center the subject",
+      "ratio": "1:1",
+      "credit": "Jonas Wehrle",
+      "creditURL": "https://unsplash.com/@jonaswehrle",
+      "cover": "pick-center-subject",
+      "points": [
+        "Square crops forgive an off-center subject; round frames do not.",
+        "Leave a thumb's width of air on all four sides.",
+        "A 1:1 crop on an 8×8 print is a straight copy, not a re-crop."
+      ],
+      "papers": [
+        "8×8 in",
+        "4×6 in"
+      ],
+      "current": false
+    },
+    {
+      "week": "Week 43",
+      "title": "Let the horizon breathe",
+      "ratio": "3:2",
+      "credit": "Mira Okonkwo",
+      "creditURL": "https://unsplash.com/@miraokonkwo",
+      "cover": "pick-horizon",
+      "points": [
+        "3:2 is the widest ratio most labs stock without a custom order.",
+        "One horizon line, one subject, nothing else competing.",
+        "Works best on 4×6 where the eye can take in the whole frame."
+      ],
+      "papers": [
+        "4×6 in",
+        "5×7 in"
+      ],
+      "current": false
+    }
+  ]
+}
