@@ -188,19 +188,19 @@
     },
     {
       "week": "Week 44",
-      "title": "The cat at the window",
-      "ratio": "3:2",
-      "credit": "Da Dong",
+      "title": "A face turned into the window",
+      "ratio": "4:5",
+      "credit": "Behrouz Sasani",
       "creditURL": "https://www.pexels.com",
-      "cover": "pick-cat-window",
+      "cover": "pick-window-portrait",
       "points": [
-        "Put the windowsill on the lower third and leave the bright garden to fill the rest of the frame.",
-        "Expose for the fur, then let the window blow out — a little white behind the head separates it cleanly.",
-        "Wait for the head to turn toward the glass; the profile is what makes the wait readable."
+        "Turn the face into the glass, not away from it: the lit cheek and the shadowed jaw make the portrait.",
+        "Expose for the skin, then let the window frame blow to white so the light comes from inside the picture.",
+        "Leave the shoulder and one hand in frame — a portrait needs a body, not just a head, to read at print size."
       ],
       "papers": [
-        "4×6 in",
-        "8×10 in"
+        "8×10 in",
+        "A4"
       ],
       "current": false
     },
