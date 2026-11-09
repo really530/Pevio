@@ -151,59 +151,94 @@
   ],
   "picks": [
     {
-      "week": "Week 45",
-      "title": "The power of negative space",
-      "ratio": "4:5",
-      "credit": "Ana Martínez",
-      "creditURL": "https://unsplash.com/@anamartinez",
-      "cover": "pick-negative-space",
-      "points": [
-        "Keep the subject in the lower third. A 4:5 frame holds the sky better than 3:2.",
-        "Place the horizon at one third or two thirds — never dead center.",
-        "Built for 8×10: almost no re-crop, and the mat blends into the sky."
-      ],
-      "papers": [
-        "8×10 in",
-        "A4",
-        "8×8 in"
-      ],
-      "current": true
-    },
-    {
-      "week": "Week 44",
-      "title": "Center the subject",
-      "ratio": "1:1",
-      "credit": "Jonas Wehrle",
-      "creditURL": "https://unsplash.com/@jonaswehrle",
-      "cover": "pick-center-subject",
-      "points": [
-        "Square crops forgive an off-center subject; round frames do not.",
-        "Leave a thumb's width of air on all four sides.",
-        "A 1:1 crop on an 8×8 print is a straight copy, not a re-crop."
-      ],
-      "papers": [
-        "8×8 in",
-        "4×6 in"
-      ],
-      "current": false
-    },
-    {
-      "week": "Week 43",
-      "title": "Let the horizon breathe",
-      "ratio": "3:2",
+      "week": "Week 42",
+      "title": "The door that frames itself",
+      "ratio": "2:3",
       "credit": "Mira Okonkwo",
-      "creditURL": "https://unsplash.com/@miraokonkwo",
-      "cover": "pick-horizon",
+      "creditURL": "https://unsplash.com/@pevio",
+      "cover": "art-blue-door",
       "points": [
-        "3:2 is the widest ratio most labs stock without a custom order.",
-        "One horizon line, one subject, nothing else competing.",
-        "Works best on 4×6 where the eye can take in the whole frame."
+        "Stand square to the door so both jambs stay vertical, then let the flowering branch fill the top third.",
+        "Expose for the pale wall; the blue only looks right when the paint reads bright, not muddied by shadow.",
+        "Leave a hand's width of wall below the step so the arch has something to sit on in the print."
       ],
       "papers": [
         "4×6 in",
         "5×7 in"
       ],
       "current": false
+    },
+    {
+      "week": "Week 43",
+      "title": "The table before anyone sits",
+      "ratio": "1:1",
+      "credit": "Jonas Wehrle",
+      "creditURL": "https://unsplash.com/@pevio",
+      "cover": "art-kitchen-table",
+      "points": [
+        "Shoot from standing height with the near edge of the table parallel to the frame — a square crop forgives soft light, not a slanted row.",
+        "Let the two front chairs act as a gateway so the eye walks between them into the room.",
+        "Wait for window light to reach the far bowls rather than the near plates, and the centre of the table glows."
+      ],
+      "papers": [
+        "8×8 in",
+        "6×6 in"
+      ],
+      "current": false
+    },
+    {
+      "week": "Week 44",
+      "title": "A cat in the window seat",
+      "ratio": "4:5",
+      "credit": "Ana Martínez",
+      "creditURL": "https://unsplash.com/@pevio",
+      "cover": "art-cat-by-the-window",
+      "points": [
+        "Centre the cat on the sill and give the same amount of shutter on each side; symmetry is the whole picture here.",
+        "Expose for the white paint and let the flowers go slightly rich — a blown sill flattens the window.",
+        "Keep one paw over the sill edge so the cat is standing on something instead of floating in the frame."
+      ],
+      "papers": [
+        "8×10 in",
+        "A4"
+      ],
+      "current": false
+    },
+    {
+      "week": "Week 45",
+      "title": "Where the water draws the line",
+      "ratio": "3:4",
+      "credit": "Elena Petrova",
+      "creditURL": "https://unsplash.com/@pevio",
+      "cover": "art-coastline",
+      "points": [
+        "Find the point where the breaking wave meets the sand and put it on the lower third, never the middle.",
+        "Shoot at low tide from a high angle so the wet sand mirrors the sky and doubles the blue.",
+        "Keep the foam line unbroken across the frame; a single gap reads as a mistake at print size."
+      ],
+      "papers": [
+        "5×7 in",
+        "A4"
+      ],
+      "current": false
+    },
+    {
+      "week": "Week 46",
+      "title": "One light left on",
+      "ratio": "2:3",
+      "credit": "Emil Johansson",
+      "creditURL": "https://unsplash.com/@pevio",
+      "cover": "art-harbour-lights",
+      "points": [
+        "Shoot in the ten minutes after sunset, when the sky still holds colour and the lamp is the brightest thing in frame.",
+        "Crop the tower into the upper two thirds and leave room below for its reflection — the light needs somewhere to land.",
+        "Underexpose by a third of a stop so the lamp stays warm instead of burning a white hole in the sky."
+      ],
+      "papers": [
+        "4×6 in",
+        "5×7 in"
+      ],
+      "current": true
     }
   ]
 }
